@@ -27,6 +27,19 @@ jobs:
       - name: Run data fetch script
         run: python fetch_data.py
 
+      - name: Verify data update
+        run: |
+          if [ ! -f data.json ]; then
+            echo "data.json not found"
+            exit 1
+          fi
+          size=$(stat -c%s data.json 2>/dev/null || stat -f%z data.json)
+          if [ "$size" -lt 1000 ]; then
+            echo "data.json too small: $size bytes"
+            exit 1
+          fi
+          echo "data.json updated successfully, size: $size bytes"
+
       - name: Check for changes
         id: verify-changed-files
         run: |
