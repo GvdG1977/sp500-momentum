@@ -3,6 +3,7 @@ import pandas as pd
 import json
 import requests
 import concurrent.futures
+import math
 
 # Fetch S&P 500 tickers
 def get_sp500_tickers():
@@ -27,6 +28,8 @@ def calculate_momentum(symbol):
         price_12m_ago = data.iloc[0]['Close']
         price_1m_ago = data.iloc[-30]['Close']  # Approx 1 month ago
         current_price = data.iloc[-1]['Close']
+        if math.isnan(price_12m_ago) or math.isnan(price_1m_ago) or math.isnan(current_price):
+            return None
         momentum = ((price_1m_ago - price_12m_ago) / price_12m_ago) * 100
         return {
             'symbol': symbol,

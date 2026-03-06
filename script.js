@@ -23,6 +23,7 @@ async function loadData() {
         loading.style.display = 'none';
     } catch (error) {
         console.error('Error loading data:', error);
+        alert('Fetch error: ' + error.message);  // Temporary alert for debugging
         stockBody.innerHTML = '<tr><td colspan="5">Error loading data. Run fetch_data.py first.</td></tr>';
         loading.style.display = 'none';
     }
