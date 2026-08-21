@@ -1,1352 +1,1346 @@
 [
   {
     "symbol": "SNDK",
-    "momentum": 4085.292692947639,
-    "currentPrice": 1568.8699951171875,
+    "momentum": 4110.813283396291,
+    "currentPrice": 1600.6199951171875,
     "name": "Sandisk"
   },
   {
     "symbol": "MU",
-    "momentum": 747.3949901977595,
-    "currentPrice": 937.10498046875,
+    "momentum": 747.1126791098002,
+    "currentPrice": 974.3300170898438,
     "name": "Micron Technology"
   },
   {
     "symbol": "WDC",
-    "momentum": 666.283054012388,
-    "currentPrice": 462.0899963378906,
+    "momentum": 682.4388168602376,
+    "currentPrice": 469.04998779296875,
     "name": "Western Digital"
   },
   {
     "symbol": "LITE",
-    "momentum": 578.0309117867134,
-    "currentPrice": 827.5999755859375,
+    "momentum": 582.9685835658437,
+    "currentPrice": 879.280029296875,
     "name": "Lumentum"
   },
   {
     "symbol": "STX",
-    "momentum": 466.56524432902404,
-    "currentPrice": 832.5599975585938,
+    "momentum": 493.69755580091146,
+    "currentPrice": 850.239990234375,
     "name": "Seagate Technology"
   },
   {
     "symbol": "CIEN",
-    "momentum": 433.6334252019051,
-    "currentPrice": 399.4700012207031,
+    "momentum": 427.3809500936644,
+    "currentPrice": 392.4800109863281,
     "name": "Ciena"
   },
   {
     "symbol": "INTC",
-    "momentum": 378.07984935673574,
-    "currentPrice": 92.80000305175781,
+    "momentum": 367.4042397357048,
+    "currentPrice": 92.12999725341797,
     "name": "Intel"
   },
   {
-    "symbol": "COHR",
-    "momentum": 278.09356290684593,
-    "currentPrice": 287.4700012207031,
-    "name": "Coherent Corp."
-  },
-  {
     "symbol": "AMAT",
-    "momentum": 268.4010139559801,
-    "currentPrice": 496.1700134277344,
+    "momentum": 278.61948367832946,
+    "currentPrice": 496.2099914550781,
     "name": "Applied Materials"
   },
   {
+    "symbol": "COHR",
+    "momentum": 274.7113229995855,
+    "currentPrice": 290.0299987792969,
+    "name": "Coherent Corp."
+  },
+  {
     "symbol": "LRCX",
-    "momentum": 258.16908342675583,
-    "currentPrice": 307.1700134277344,
+    "momentum": 257.9604887790961,
+    "currentPrice": 310.5299987792969,
     "name": "Lam Research"
   },
   {
-    "symbol": "DELL",
-    "momentum": 254.30026372009635,
-    "currentPrice": 437.54998779296875,
-    "name": "Dell Technologies"
-  },
-  {
     "symbol": "ECHO",
-    "momentum": 248.20976530781815,
-    "currentPrice": 88.43499755859375,
+    "momentum": 256.21817848899144,
+    "currentPrice": 86.91999816894531,
     "name": "EchoStar"
   },
   {
+    "symbol": "DELL",
+    "momentum": 244.03981307670065,
+    "currentPrice": 434.7799987792969,
+    "name": "Dell Technologies"
+  },
+  {
+    "symbol": "AMD",
+    "momentum": 240.77942200779407,
+    "currentPrice": 469.4549865722656,
+    "name": "Advanced Micro Devices"
+  },
+  {
     "symbol": "MRVL",
-    "momentum": 242.2187110779893,
-    "currentPrice": 237.27000427246094,
+    "momentum": 231.8528552223568,
+    "currentPrice": 251.00999450683594,
     "name": "Marvell Technology"
   },
   {
     "symbol": "TER",
-    "momentum": 232.06594809695616,
-    "currentPrice": 379.6499938964844,
+    "momentum": 229.84498014603497,
+    "currentPrice": 383.1499938964844,
     "name": "Teradyne"
   },
   {
-    "symbol": "AMD",
-    "momentum": 230.94429830674542,
-    "currentPrice": 466.4200134277344,
-    "name": "Advanced Micro Devices"
-  },
-  {
     "symbol": "GLW",
-    "momentum": 201.0572437971853,
-    "currentPrice": 152.4600067138672,
+    "momentum": 197.39049858361048,
+    "currentPrice": 151.4499969482422,
     "name": "Corning Inc."
   },
   {
     "symbol": "FLEX",
-    "momentum": 185.01019712895464,
-    "currentPrice": 113.02999877929688,
+    "momentum": 174.84315618525642,
+    "currentPrice": 110.31999969482422,
     "name": "Flex Ltd."
   },
   {
-    "symbol": "MRNA",
-    "momentum": 184.7155050069144,
-    "currentPrice": 174.3800048828125,
-    "name": "Moderna"
-  },
-  {
     "symbol": "KLAC",
-    "momentum": 162.39430658580005,
-    "currentPrice": 187.27000427246094,
+    "momentum": 166.51631954177333,
+    "currentPrice": 185.86000061035156,
     "name": "KLA Corporation"
   },
   {
+    "symbol": "MRNA",
+    "momentum": 160.3737545038562,
+    "currentPrice": 133.32000732421875,
+    "name": "Moderna"
+  },
+  {
     "symbol": "VRT",
-    "momentum": 154.25499455670618,
-    "currentPrice": 261.0,
+    "momentum": 152.18140670897768,
+    "currentPrice": 264.6300048828125,
     "name": "Vertiv"
   },
   {
-    "symbol": "HPE",
-    "momentum": 138.27446676294093,
-    "currentPrice": 53.130001068115234,
-    "name": "Hewlett Packard Enterprise"
-  },
-  {
-    "symbol": "WBD",
-    "momentum": 130.7625584817637,
-    "currentPrice": 28.530000686645508,
-    "name": "Warner Bros. Discovery"
-  },
-  {
     "symbol": "CNC",
-    "momentum": 128.19726941630654,
-    "currentPrice": 64.69999694824219,
+    "momentum": 134.64074879291178,
+    "currentPrice": 64.13999938964844,
     "name": "Centene Corporation"
   },
   {
     "symbol": "CAT",
-    "momentum": 124.70428710395632,
-    "currentPrice": 816.1500244140625,
+    "momentum": 129.5349797001118,
+    "currentPrice": 815.3900146484375,
     "name": "Caterpillar Inc."
   },
   {
-    "symbol": "DDOG",
-    "momentum": 109.4036944892683,
-    "currentPrice": 233.52000427246094,
-    "name": "Datadog"
+    "symbol": "WBD",
+    "momentum": 129.4219137404472,
+    "currentPrice": 28.229999542236328,
+    "name": "Warner Bros. Discovery"
   },
   {
-    "symbol": "FTNT",
-    "momentum": 105.66511050403071,
-    "currentPrice": 152.85000610351562,
-    "name": "Fortinet"
+    "symbol": "HPE",
+    "momentum": 127.09017550920065,
+    "currentPrice": 52.88999938964844,
+    "name": "Hewlett Packard Enterprise"
   },
   {
     "symbol": "VLO",
-    "momentum": 103.62067133784718,
-    "currentPrice": 346.260009765625,
+    "momentum": 103.53386993745863,
+    "currentPrice": 341.510009765625,
     "name": "Valero Energy"
   },
   {
+    "symbol": "FTNT",
+    "momentum": 102.58520193805265,
+    "currentPrice": 150.7899932861328,
+    "name": "Fortinet"
+  },
+  {
+    "symbol": "DDOG",
+    "momentum": 99.41155301280462,
+    "currentPrice": 232.5500030517578,
+    "name": "Datadog"
+  },
+  {
     "symbol": "ON",
-    "momentum": 97.83707364378147,
-    "currentPrice": 76.58000183105469,
+    "momentum": 96.59905016307223,
+    "currentPrice": 74.70999908447266,
     "name": "ON Semiconductor"
   },
   {
-    "symbol": "CRWD",
-    "momentum": 89.3265143411208,
-    "currentPrice": 201.6300048828125,
-    "name": "CrowdStrike"
-  },
-  {
-    "symbol": "PANW",
-    "momentum": 83.43545572510318,
-    "currentPrice": 359.760009765625,
-    "name": "Palo Alto Networks"
-  },
-  {
-    "symbol": "GOOGL",
-    "momentum": 80.57086124369955,
-    "currentPrice": 344.7200012207031,
-    "name": "Alphabet Inc. (Class A)"
-  },
-  {
     "symbol": "CSCO",
-    "momentum": 79.94304345495217,
-    "currentPrice": 110.55000305175781,
+    "momentum": 84.7536456392518,
+    "currentPrice": 109.58999633789062,
     "name": "Cisco"
   },
   {
-    "symbol": "GOOG",
-    "momentum": 78.45909899288304,
-    "currentPrice": 341.70001220703125,
-    "name": "Alphabet Inc. (Class C)"
+    "symbol": "CRWD",
+    "momentum": 80.82402915465732,
+    "currentPrice": 190.33999633789062,
+    "name": "CrowdStrike"
   },
   {
     "symbol": "GEV",
-    "momentum": 78.253293657768,
-    "currentPrice": 987.4600219726562,
+    "momentum": 80.53608600424239,
+    "currentPrice": 966.010009765625,
     "name": "GE Vernova"
   },
   {
+    "symbol": "GOOGL",
+    "momentum": 79.32362907117336,
+    "currentPrice": 340.6700134277344,
+    "name": "Alphabet Inc. (Class A)"
+  },
+  {
+    "symbol": "PANW",
+    "momentum": 77.78201540528347,
+    "currentPrice": 349.55999755859375,
+    "name": "Palo Alto Networks"
+  },
+  {
+    "symbol": "GOOG",
+    "momentum": 77.47175256517845,
+    "currentPrice": 338.20001220703125,
+    "name": "Alphabet Inc. (Class C)"
+  },
+  {
+    "symbol": "FDX",
+    "momentum": 74.56818577956219,
+    "currentPrice": 326.0400085449219,
+    "name": "FedEx"
+  },
+  {
     "symbol": "PWR",
-    "momentum": 77.9176062466937,
-    "currentPrice": 677.4099731445312,
+    "momentum": 74.2737454575526,
+    "currentPrice": 662.469970703125,
     "name": "Quanta Services"
   },
   {
     "symbol": "LLY",
-    "momentum": 73.34894955731541,
-    "currentPrice": 1280.3399658203125,
+    "momentum": 68.26302496780252,
+    "currentPrice": 1244.4000244140625,
     "name": "Lilly (Eli)"
   },
   {
-    "symbol": "MPC",
-    "momentum": 73.22723682731203,
-    "currentPrice": 360.75,
-    "name": "Marathon Petroleum"
-  },
-  {
-    "symbol": "FDX",
-    "momentum": 72.4839419168013,
-    "currentPrice": 328.3800048828125,
-    "name": "FedEx"
-  },
-  {
     "symbol": "APA",
-    "momentum": 68.19212114795467,
-    "currentPrice": 43.45000076293945,
+    "momentum": 66.57501511021198,
+    "currentPrice": 44.38999938964844,
     "name": "APA Corporation"
   },
   {
-    "symbol": "ALB",
-    "momentum": 66.61380219912489,
-    "currentPrice": 134.27999877929688,
-    "name": "Albemarle Corporation"
-  },
-  {
     "symbol": "HAL",
-    "momentum": 65.45791640209829,
-    "currentPrice": 35.02000045776367,
+    "momentum": 65.35661755197651,
+    "currentPrice": 35.689998626708984,
     "name": "Halliburton"
   },
   {
     "symbol": "ADI",
-    "momentum": 62.912624204053344,
-    "currentPrice": 373.260009765625,
+    "momentum": 62.36530072716896,
+    "currentPrice": 370.239990234375,
     "name": "Analog Devices"
   },
   {
-    "symbol": "VTRS",
-    "momentum": 62.59726339419054,
-    "currentPrice": 16.2450008392334,
-    "name": "Viatris"
-  },
-  {
-    "symbol": "NUE",
-    "momentum": 60.11544582640575,
-    "currentPrice": 248.74000549316406,
-    "name": "Nucor"
+    "symbol": "ALB",
+    "momentum": 61.84016095437899,
+    "currentPrice": 134.19000244140625,
+    "name": "Albemarle Corporation"
   },
   {
     "symbol": "LUV",
-    "momentum": 58.993640280314516,
-    "currentPrice": 41.41999816894531,
+    "momentum": 61.39278795563887,
+    "currentPrice": 39.88999938964844,
     "name": "Southwest Airlines"
   },
   {
-    "symbol": "HWM",
-    "momentum": 58.20281430215864,
-    "currentPrice": 283.4800109863281,
-    "name": "Howmet Aerospace"
+    "symbol": "VTRS",
+    "momentum": 58.87742175020859,
+    "currentPrice": 16.1200008392334,
+    "name": "Viatris"
   },
   {
     "symbol": "TXN",
-    "momentum": 56.849952282636494,
-    "currentPrice": 267.45001220703125,
+    "momentum": 58.386845536538644,
+    "currentPrice": 265.6000061035156,
     "name": "Texas Instruments"
   },
   {
+    "symbol": "HWM",
+    "momentum": 58.27267269769213,
+    "currentPrice": 273.6400146484375,
+    "name": "Howmet Aerospace"
+  },
+  {
+    "symbol": "NUE",
+    "momentum": 57.24865040495947,
+    "currentPrice": 240.47999572753906,
+    "name": "Nucor"
+  },
+  {
     "symbol": "MS",
-    "momentum": 53.89440150650504,
-    "currentPrice": 214.22999572753906,
+    "momentum": 56.84665297445852,
+    "currentPrice": 207.4499969482422,
     "name": "Morgan Stanley"
   },
   {
-    "symbol": "IBKR",
-    "momentum": 53.24775039072621,
-    "currentPrice": 90.54000091552734,
-    "name": "Interactive Brokers"
-  },
-  {
     "symbol": "HST",
-    "momentum": 52.81038662345097,
-    "currentPrice": 23.149999618530273,
+    "momentum": 55.20715584607068,
+    "currentPrice": 23.09000015258789,
     "name": "Host Hotels & Resorts"
   },
   {
-    "symbol": "MRK",
-    "momentum": 52.67105368910441,
-    "currentPrice": 152.1999969482422,
-    "name": "Merck & Co."
-  },
-  {
-    "symbol": "DAL",
-    "momentum": 52.36860235073085,
-    "currentPrice": 83.29000091552734,
-    "name": "Delta Air Lines"
+    "symbol": "PSX",
+    "momentum": 55.01313501280804,
+    "currentPrice": 240.0,
+    "name": "Phillips 66"
   },
   {
     "symbol": "C",
-    "momentum": 52.19665744292076,
-    "currentPrice": 132.88999938964844,
+    "momentum": 54.48874298132338,
+    "currentPrice": 129.6699981689453,
     "name": "Citigroup"
   },
   {
-    "symbol": "APH",
-    "momentum": 50.34134677925648,
-    "currentPrice": 156.0399932861328,
-    "name": "Amphenol"
+    "symbol": "DAL",
+    "momentum": 52.74212917214033,
+    "currentPrice": 81.05999755859375,
+    "name": "Delta Air Lines"
   },
   {
     "symbol": "BNY",
-    "momentum": 50.271995770547605,
-    "currentPrice": 159.75999450683594,
+    "momentum": 51.600295514498995,
+    "currentPrice": 157.24000549316406,
     "name": "BNY Mellon"
   },
   {
+    "symbol": "IBKR",
+    "momentum": 51.30953691117646,
+    "currentPrice": 89.8499984741211,
+    "name": "Interactive Brokers"
+  },
+  {
     "symbol": "GS",
-    "momentum": 49.47373204659817,
-    "currentPrice": 1021.6500244140625,
+    "momentum": 50.34868003211855,
+    "currentPrice": 1001.9500122070312,
     "name": "Goldman Sachs"
   },
   {
     "symbol": "CVS",
-    "momentum": 48.857002301667364,
+    "momentum": 49.509391753770196,
     "currentPrice": 93.6500015258789,
     "name": "CVS Health"
   },
   {
-    "symbol": "JNJ",
-    "momentum": 48.49805172794363,
-    "currentPrice": 273.4100036621094,
-    "name": "Johnson & Johnson"
-  },
-  {
-    "symbol": "UNH",
-    "momentum": 47.825896120603396,
-    "currentPrice": 388.6099853515625,
-    "name": "UnitedHealth Group"
-  },
-  {
     "symbol": "FCX",
-    "momentum": 47.74283945703898,
-    "currentPrice": 69.08999633789062,
+    "momentum": 48.68358414676377,
+    "currentPrice": 71.22000122070312,
     "name": "Freeport-McMoRan"
   },
   {
+    "symbol": "MRK",
+    "momentum": 48.31572717974214,
+    "currentPrice": 148.99000549316406,
+    "name": "Merck & Co."
+  },
+  {
+    "symbol": "JNJ",
+    "momentum": 47.20892953745128,
+    "currentPrice": 267.3699951171875,
+    "name": "Johnson & Johnson"
+  },
+  {
+    "symbol": "APH",
+    "momentum": 47.17783939275083,
+    "currentPrice": 153.11000061035156,
+    "name": "Amphenol"
+  },
+  {
+    "symbol": "EIX",
+    "momentum": 46.354560139592536,
+    "currentPrice": 74.66000366210938,
+    "name": "Edison International"
+  },
+  {
     "symbol": "SLB",
-    "momentum": 45.474709142985894,
+    "momentum": 45.118499947261235,
     "currentPrice": 53.54999923706055,
     "name": "Schlumberger"
   },
   {
-    "symbol": "WELL",
-    "momentum": 42.44891254494082,
-    "currentPrice": 235.72999572753906,
-    "name": "Welltower"
+    "symbol": "UNH",
+    "momentum": 43.72576929830904,
+    "currentPrice": 384.8500061035156,
+    "name": "UnitedHealth Group"
   },
   {
     "symbol": "MAR",
-    "momentum": 42.087678150348665,
-    "currentPrice": 359.95001220703125,
+    "momentum": 42.90993725163793,
+    "currentPrice": 356.6000061035156,
     "name": "Marriott International"
   },
   {
-    "symbol": "EIX",
-    "momentum": 40.99554446056125,
-    "currentPrice": 73.44000244140625,
-    "name": "Edison International"
-  },
-  {
     "symbol": "ANET",
-    "momentum": 40.48071858717101,
-    "currentPrice": 186.4499969482422,
+    "momentum": 41.60418726231457,
+    "currentPrice": 183.75,
     "name": "Arista Networks"
   },
   {
     "symbol": "AAPL",
-    "momentum": 40.30999483780139,
-    "currentPrice": 316.8299865722656,
+    "momentum": 40.601197115303094,
+    "currentPrice": 311.29998779296875,
     "name": "Apple Inc."
   },
   {
+    "symbol": "WELL",
+    "momentum": 40.56040501416965,
+    "currentPrice": 237.39999389648438,
+    "name": "Welltower"
+  },
+  {
     "symbol": "CSX",
-    "momentum": 39.05831055968988,
-    "currentPrice": 50.68000030517578,
+    "momentum": 39.693153668093416,
+    "currentPrice": 50.970001220703125,
     "name": "CSX Corporation"
   },
   {
-    "symbol": "NEM",
-    "momentum": 38.86677113482796,
-    "currentPrice": 125.08000183105469,
-    "name": "Newmont"
-  },
-  {
     "symbol": "AVGO",
-    "momentum": 38.7673690532989,
-    "currentPrice": 362.4800109863281,
+    "momentum": 39.12314593559828,
+    "currentPrice": 364.0299987792969,
     "name": "Broadcom"
   },
   {
     "symbol": "GM",
-    "momentum": 36.25377915975424,
-    "currentPrice": 84.95999908447266,
+    "momentum": 39.023621789773536,
+    "currentPrice": 86.1500015258789,
     "name": "General Motors"
   },
   {
     "symbol": "MCHP",
-    "momentum": 35.791010013875585,
-    "currentPrice": 77.08000183105469,
+    "momentum": 37.65965959913717,
+    "currentPrice": 75.80999755859375,
     "name": "Microchip Technology"
   },
   {
+    "symbol": "NEM",
+    "momentum": 37.39930485463167,
+    "currentPrice": 127.63999938964844,
+    "name": "Newmont"
+  },
+  {
+    "symbol": "FANG",
+    "momentum": 35.346891475939586,
+    "currentPrice": 211.02000427246094,
+    "name": "Diamondback Energy"
+  },
+  {
+    "symbol": "UPS",
+    "momentum": 34.83681691121031,
+    "currentPrice": 102.58000183105469,
+    "name": "United Parcel Service"
+  },
+  {
     "symbol": "WMB",
-    "momentum": 35.717659960700736,
-    "currentPrice": 73.23999786376953,
+    "momentum": 34.67709251437281,
+    "currentPrice": 71.68000030517578,
     "name": "Williams Companies"
   },
   {
     "symbol": "GE",
-    "momentum": 35.438865387154664,
-    "currentPrice": 356.2300109863281,
+    "momentum": 34.380769440624945,
+    "currentPrice": 344.6400146484375,
     "name": "GE Aerospace"
   },
   {
-    "symbol": "ADM",
-    "momentum": 35.21277266864351,
-    "currentPrice": 80.76000213623047,
-    "name": "Archer Daniels Midland"
-  },
-  {
     "symbol": "BKR",
-    "momentum": 35.07929660682332,
-    "currentPrice": 64.4800033569336,
+    "momentum": 34.021554236788155,
+    "currentPrice": 62.779998779296875,
     "name": "Baker Hughes"
   },
   {
-    "symbol": "FANG",
-    "momentum": 34.447698717738746,
-    "currentPrice": 208.5500030517578,
-    "name": "Diamondback Energy"
-  },
-  {
-    "symbol": "EQIX",
-    "momentum": 33.039988119982425,
-    "currentPrice": 1077.0799560546875,
-    "name": "Equinix"
-  },
-  {
-    "symbol": "UPS",
-    "momentum": 32.646380728817284,
-    "currentPrice": 102.86000061035156,
-    "name": "United Parcel Service"
-  },
-  {
     "symbol": "KEY",
-    "momentum": 32.146118422524204,
-    "currentPrice": 22.100000381469727,
+    "momentum": 33.804317192612274,
+    "currentPrice": 21.850000381469727,
     "name": "KeyCorp"
   },
   {
+    "symbol": "NXPI",
+    "momentum": 32.83378598252453,
+    "currentPrice": 222.97000122070312,
+    "name": "NXP Semiconductors"
+  },
+  {
+    "symbol": "UAL",
+    "momentum": 32.78115012864545,
+    "currentPrice": 111.70999908447266,
+    "name": "United Airlines Holdings"
+  },
+  {
     "symbol": "PNC",
-    "momentum": 29.552940971079728,
-    "currentPrice": 246.4600067138672,
+    "momentum": 32.53431549170136,
+    "currentPrice": 241.6199951171875,
     "name": "PNC Financial Services"
   },
   {
     "symbol": "XOM",
-    "momentum": 29.488613389060202,
-    "currentPrice": 164.77000427246094,
+    "momentum": 29.98786738602289,
+    "currentPrice": 166.14999389648438,
     "name": "ExxonMobil"
   },
   {
-    "symbol": "NXPI",
-    "momentum": 29.25824209393569,
-    "currentPrice": 226.02000427246094,
-    "name": "NXP Semiconductors"
-  },
-  {
-    "symbol": "AMGN",
-    "momentum": 27.863372570809315,
-    "currentPrice": 442.3599853515625,
-    "name": "Amgen"
-  },
-  {
-    "symbol": "CB",
-    "momentum": 27.73506618284588,
-    "currentPrice": 340.9200134277344,
-    "name": "Chubb Limited"
-  },
-  {
-    "symbol": "DVN",
-    "momentum": 27.62387878751365,
-    "currentPrice": 48.189998626708984,
-    "name": "Devon Energy"
-  },
-  {
-    "symbol": "PCAR",
-    "momentum": 27.509166311543755,
-    "currentPrice": 127.47000122070312,
-    "name": "Paccar"
-  },
-  {
     "symbol": "UNP",
-    "momentum": 27.31266576013957,
-    "currentPrice": 301.79998779296875,
+    "momentum": 29.388500839068655,
+    "currentPrice": 303.9700012207031,
     "name": "Union Pacific Corporation"
   },
   {
-    "symbol": "UAL",
-    "momentum": 26.42228150082667,
-    "currentPrice": 115.77999877929688,
-    "name": "United Airlines Holdings"
-  },
-  {
-    "symbol": "VRTX",
-    "momentum": 26.389596102516037,
-    "currentPrice": 552.0599975585938,
-    "name": "Vertex Pharmaceuticals"
-  },
-  {
-    "symbol": "APP",
-    "momentum": 26.201558396041463,
-    "currentPrice": 310.7900085449219,
-    "name": "AppLovin"
-  },
-  {
-    "symbol": "RTX",
-    "momentum": 26.088139768748388,
-    "currentPrice": 220.35000610351562,
-    "name": "RTX Corporation"
-  },
-  {
-    "symbol": "KMI",
-    "momentum": 25.66953181645419,
-    "currentPrice": 32.08000183105469,
-    "name": "Kinder Morgan"
-  },
-  {
-    "symbol": "QCOM",
-    "momentum": 25.539134526079827,
-    "currentPrice": 161.91000366210938,
-    "name": "Qualcomm"
-  },
-  {
-    "symbol": "TSLA",
-    "momentum": 25.51713351464236,
-    "currentPrice": 351.1199951171875,
-    "name": "Tesla"
-  },
-  {
-    "symbol": "BAC",
-    "momentum": 25.21339722546322,
-    "currentPrice": 63.16999816894531,
-    "name": "Bank of America"
-  },
-  {
-    "symbol": "TRV",
-    "momentum": 25.11985888108209,
-    "currentPrice": 362.2200012207031,
-    "name": "Travelers Companies (The)"
-  },
-  {
-    "symbol": "BMY",
-    "momentum": 24.95201359019196,
-    "currentPrice": 67.61000061035156,
-    "name": "Bristol Myers Squibb"
+    "symbol": "PCAR",
+    "momentum": 29.163029355068186,
+    "currentPrice": 128.94000244140625,
+    "name": "Paccar"
   },
   {
     "symbol": "DOW",
-    "momentum": 24.546412563959176,
-    "currentPrice": 31.75,
+    "momentum": 28.951040549718243,
+    "currentPrice": 32.900001525878906,
     "name": "Dow Inc."
   },
   {
-    "symbol": "IBM",
-    "momentum": 24.023474361433703,
-    "currentPrice": 237.16000366210938,
-    "name": "IBM"
-  },
-  {
     "symbol": "F",
-    "momentum": 22.645137000307695,
-    "currentPrice": 14.5,
+    "momentum": 27.941197069720342,
+    "currentPrice": 13.989999771118164,
     "name": "Ford Motor Company"
   },
   {
-    "symbol": "AEP",
-    "momentum": 22.46340924597287,
-    "currentPrice": 126.2699966430664,
-    "name": "American Electric Power"
+    "symbol": "DVN",
+    "momentum": 27.845378606987925,
+    "currentPrice": 49.29999923706055,
+    "name": "Devon Energy"
   },
   {
-    "symbol": "ABBV",
-    "momentum": 22.324594305446727,
-    "currentPrice": 265.9700012207031,
-    "name": "AbbVie"
+    "symbol": "TSLA",
+    "momentum": 27.38122158788655,
+    "currentPrice": 345.1300048828125,
+    "name": "Tesla"
+  },
+  {
+    "symbol": "RTX",
+    "momentum": 26.77826787837206,
+    "currentPrice": 212.2899932861328,
+    "name": "RTX Corporation"
+  },
+  {
+    "symbol": "AMGN",
+    "momentum": 26.639712775251734,
+    "currentPrice": 433.7300109863281,
+    "name": "Amgen"
+  },
+  {
+    "symbol": "BAC",
+    "momentum": 26.336137548702244,
+    "currentPrice": 61.86000061035156,
+    "name": "Bank of America"
+  },
+  {
+    "symbol": "CB",
+    "momentum": 25.49856031418054,
+    "currentPrice": 342.8699951171875,
+    "name": "Chubb Limited"
+  },
+  {
+    "symbol": "BMY",
+    "momentum": 25.378961104399046,
+    "currentPrice": 65.47000122070312,
+    "name": "Bristol Myers Squibb"
+  },
+  {
+    "symbol": "QCOM",
+    "momentum": 25.314314590252046,
+    "currentPrice": 160.74000549316406,
+    "name": "Qualcomm"
+  },
+  {
+    "symbol": "VRTX",
+    "momentum": 24.918233450954926,
+    "currentPrice": 540.260009765625,
+    "name": "Vertex Pharmaceuticals"
+  },
+  {
+    "symbol": "TRV",
+    "momentum": 24.70866939655955,
+    "currentPrice": 364.489990234375,
+    "name": "Travelers Companies (The)"
+  },
+  {
+    "symbol": "KMI",
+    "momentum": 23.42217896789002,
+    "currentPrice": 31.610000610351562,
+    "name": "Kinder Morgan"
+  },
+  {
+    "symbol": "IBM",
+    "momentum": 22.361857154628172,
+    "currentPrice": 233.69000244140625,
+    "name": "IBM"
   },
   {
     "symbol": "SBUX",
-    "momentum": 21.21795836108972,
-    "currentPrice": 104.9800033569336,
+    "momentum": 22.057739059018957,
+    "currentPrice": 103.98999786376953,
     "name": "Starbucks"
   },
   {
-    "symbol": "OXY",
-    "momentum": 20.58178616770383,
-    "currentPrice": 60.09000015258789,
-    "name": "Occidental Petroleum"
-  },
-  {
     "symbol": "KO",
-    "momentum": 20.184072131223218,
-    "currentPrice": 90.3499984741211,
+    "momentum": 21.50368007379578,
+    "currentPrice": 90.5,
     "name": "Coca-Cola Company (The)"
   },
   {
-    "symbol": "LMT",
-    "momentum": 19.335928894597984,
-    "currentPrice": 589.1500244140625,
-    "name": "Lockheed Martin"
+    "symbol": "ABBV",
+    "momentum": 21.225989680603334,
+    "currentPrice": 261.8299865722656,
+    "name": "AbbVie"
   },
   {
-    "symbol": "EBAY",
-    "momentum": 17.730448476297255,
-    "currentPrice": 102.63999938964844,
-    "name": "eBay Inc."
+    "symbol": "OXY",
+    "momentum": 21.148464144289115,
+    "currentPrice": 61.52000045776367,
+    "name": "Occidental Petroleum"
   },
   {
-    "symbol": "NEE",
-    "momentum": 17.645183927980735,
-    "currentPrice": 85.91000366210938,
-    "name": "NextEra Energy"
+    "symbol": "APP",
+    "momentum": 21.066959395210354,
+    "currentPrice": 308.7699890136719,
+    "name": "AppLovin"
   },
   {
-    "symbol": "ABNB",
-    "momentum": 17.549616249877815,
-    "currentPrice": 186.38999938964844,
-    "name": "Airbnb"
-  },
-  {
-    "symbol": "JPM",
-    "momentum": 16.988716907398185,
-    "currentPrice": 357.260009765625,
-    "name": "JPMorgan Chase"
-  },
-  {
-    "symbol": "COP",
-    "momentum": 16.647935271064483,
-    "currentPrice": 130.5800018310547,
-    "name": "ConocoPhillips"
-  },
-  {
-    "symbol": "GILD",
-    "momentum": 16.52713847226616,
-    "currentPrice": 147.60000610351562,
-    "name": "Gilead Sciences"
-  },
-  {
-    "symbol": "EOG",
-    "momentum": 15.88730502341003,
-    "currentPrice": 149.47999572753906,
-    "name": "EOG Resources"
+    "symbol": "AEP",
+    "momentum": 21.05320022142367,
+    "currentPrice": 125.69999694824219,
+    "name": "American Electric Power"
   },
   {
     "symbol": "NVDA",
-    "momentum": 15.764020110588026,
-    "currentPrice": 217.55999755859375,
+    "momentum": 20.72293131227823,
+    "currentPrice": 216.85000610351562,
     "name": "Nvidia"
   },
   {
-    "symbol": "AES",
-    "momentum": 15.050326700720904,
-    "currentPrice": 14.699999809265137,
-    "name": "AES Corporation"
+    "symbol": "EBAY",
+    "momentum": 20.206804743371194,
+    "currentPrice": 104.61000061035156,
+    "name": "eBay Inc."
   },
   {
-    "symbol": "HUBB",
-    "momentum": 14.25927612705389,
-    "currentPrice": 475.6400146484375,
-    "name": "Hubbell Incorporated"
-  },
-  {
-    "symbol": "MO",
-    "momentum": 13.119219460069647,
-    "currentPrice": 66.02999877929688,
-    "name": "Altria"
-  },
-  {
-    "symbol": "PCG",
-    "momentum": 12.179283857218197,
-    "currentPrice": 17.649999618530273,
-    "name": "PG&E Corporation"
-  },
-  {
-    "symbol": "XEL",
-    "momentum": 12.170283339800315,
-    "currentPrice": 79.41000366210938,
-    "name": "Xcel Energy"
-  },
-  {
-    "symbol": "CDNS",
-    "momentum": 11.723838057278165,
-    "currentPrice": 314.9800109863281,
-    "name": "Cadence Design Systems"
-  },
-  {
-    "symbol": "WFC",
-    "momentum": 11.216367917071242,
-    "currentPrice": 85.94000244140625,
-    "name": "Wells Fargo"
-  },
-  {
-    "symbol": "O",
-    "momentum": 10.772230308655129,
-    "currentPrice": 62.95000076293945,
-    "name": "Realty Income"
-  },
-  {
-    "symbol": "AMZN",
-    "momentum": 10.37933782268034,
-    "currentPrice": 265.8399963378906,
-    "name": "Amazon"
-  },
-  {
-    "symbol": "AXP",
-    "momentum": 10.242600513806742,
-    "currentPrice": 339.8999938964844,
-    "name": "American Express"
-  },
-  {
-    "symbol": "CL",
-    "momentum": 10.195231826718294,
-    "currentPrice": 90.87000274658203,
-    "name": "Colgate-Palmolive"
-  },
-  {
-    "symbol": "WMT",
-    "momentum": 10.056066707154383,
-    "currentPrice": 114.30000305175781,
-    "name": "Walmart"
-  },
-  {
-    "symbol": "TTWO",
-    "momentum": 9.931345124290702,
-    "currentPrice": 237.0399932861328,
-    "name": "Take-Two Interactive"
-  },
-  {
-    "symbol": "DLR",
-    "momentum": 9.713690304588985,
-    "currentPrice": 192.35000610351562,
-    "name": "Digital Realty"
-  },
-  {
-    "symbol": "HOOD",
-    "momentum": 9.2747338258134,
-    "currentPrice": 95.7699966430664,
-    "name": "Robinhood Markets"
+    "symbol": "LMT",
+    "momentum": 20.154735505530383,
+    "currentPrice": 571.47998046875,
+    "name": "Lockheed Martin"
   },
   {
     "symbol": "FSLR",
-    "momentum": 8.651424335949985,
-    "currentPrice": 222.39999389648438,
+    "momentum": 19.010416666666664,
+    "currentPrice": 214.05999755859375,
     "name": "First Solar"
   },
   {
+    "symbol": "NEE",
+    "momentum": 18.962935125945535,
+    "currentPrice": 85.02999877929688,
+    "name": "NextEra Energy"
+  },
+  {
+    "symbol": "PCG",
+    "momentum": 18.351179429608173,
+    "currentPrice": 17.959999084472656,
+    "name": "PG&E Corporation"
+  },
+  {
+    "symbol": "COP",
+    "momentum": 17.886072943341205,
+    "currentPrice": 134.88999938964844,
+    "name": "ConocoPhillips"
+  },
+  {
+    "symbol": "AES",
+    "momentum": 17.81034749595044,
+    "currentPrice": 14.770000457763672,
+    "name": "AES Corporation"
+  },
+  {
+    "symbol": "JPM",
+    "momentum": 17.647405929657292,
+    "currentPrice": 351.54998779296875,
+    "name": "JPMorgan Chase"
+  },
+  {
+    "symbol": "ABNB",
+    "momentum": 17.551209964762855,
+    "currentPrice": 185.0,
+    "name": "Airbnb"
+  },
+  {
+    "symbol": "WMT",
+    "momentum": 16.97087061890092,
+    "currentPrice": 103.83999633789062,
+    "name": "Walmart"
+  },
+  {
+    "symbol": "CVX",
+    "momentum": 16.85290380770861,
+    "currentPrice": 205.77000427246094,
+    "name": "Chevron Corporation"
+  },
+  {
+    "symbol": "EOG",
+    "momentum": 16.226001323651428,
+    "currentPrice": 152.19000244140625,
+    "name": "EOG Resources"
+  },
+  {
+    "symbol": "HUBB",
+    "momentum": 16.206917101617616,
+    "currentPrice": 469.760009765625,
+    "name": "Hubbell Incorporated"
+  },
+  {
+    "symbol": "GILD",
+    "momentum": 14.699645623733504,
+    "currentPrice": 143.44000244140625,
+    "name": "Gilead Sciences"
+  },
+  {
+    "symbol": "AXP",
+    "momentum": 13.712765526218204,
+    "currentPrice": 331.1499938964844,
+    "name": "American Express"
+  },
+  {
+    "symbol": "WFC",
+    "momentum": 13.450184677409258,
+    "currentPrice": 83.69999694824219,
+    "name": "Wells Fargo"
+  },
+  {
+    "symbol": "MO",
+    "momentum": 13.267649358317318,
+    "currentPrice": 66.94000244140625,
+    "name": "Altria"
+  },
+  {
+    "symbol": "DLR",
+    "momentum": 12.65545688137838,
+    "currentPrice": 194.3000030517578,
+    "name": "Digital Realty"
+  },
+  {
+    "symbol": "O",
+    "momentum": 11.614007857573593,
+    "currentPrice": 63.16999816894531,
+    "name": "Realty Income"
+  },
+  {
+    "symbol": "XEL",
+    "momentum": 11.340181028551772,
+    "currentPrice": 78.70999908447266,
+    "name": "Xcel Energy"
+  },
+  {
+    "symbol": "HBAN",
+    "momentum": 10.600376437922309,
+    "currentPrice": 17.010000228881836,
+    "name": "Huntington Bancshares"
+  },
+  {
+    "symbol": "AMZN",
+    "momentum": 10.538409421606294,
+    "currentPrice": 260.1099853515625,
+    "name": "Amazon"
+  },
+  {
+    "symbol": "CDNS",
+    "momentum": 10.530254432850002,
+    "currentPrice": 313.5899963378906,
+    "name": "Cadence Design Systems"
+  },
+  {
+    "symbol": "TMO",
+    "momentum": 9.34583356442983,
+    "currentPrice": 627.5499877929688,
+    "name": "Thermo Fisher Scientific"
+  },
+  {
+    "symbol": "TTWO",
+    "momentum": 8.000180531426665,
+    "currentPrice": 240.14999389648438,
+    "name": "Take-Two Interactive"
+  },
+  {
+    "symbol": "CARR",
+    "momentum": 7.9129200572789,
+    "currentPrice": 60.150001525878906,
+    "name": "Carrier Global"
+  },
+  {
     "symbol": "PM",
-    "momentum": 8.609372024212993,
-    "currentPrice": 189.92999267578125,
+    "momentum": 7.855800784816195,
+    "currentPrice": 191.52000427246094,
     "name": "Philip Morris International"
   },
   {
     "symbol": "LYB",
-    "momentum": 8.485834314768859,
-    "currentPrice": 66.05999755859375,
+    "momentum": 7.571141580548324,
+    "currentPrice": 68.0999984741211,
     "name": "LyondellBasell"
   },
   {
-    "symbol": "EXC",
-    "momentum": 8.185321020356877,
-    "currentPrice": 45.29999923706055,
-    "name": "Exelon"
-  },
-  {
-    "symbol": "HBAN",
-    "momentum": 7.826034104529931,
-    "currentPrice": 17.170000076293945,
-    "name": "Huntington Bancshares"
+    "symbol": "CL",
+    "momentum": 7.503592632825448,
+    "currentPrice": 89.69999694824219,
+    "name": "Colgate-Palmolive"
   },
   {
     "symbol": "SCHW",
-    "momentum": 7.528407976214294,
-    "currentPrice": 110.87999725341797,
+    "momentum": 7.401848635666945,
+    "currentPrice": 109.79000091552734,
     "name": "Charles Schwab Corporation"
   },
   {
-    "symbol": "TMO",
-    "momentum": 6.429319050235657,
-    "currentPrice": 613.5399780273438,
-    "name": "Thermo Fisher Scientific"
-  },
-  {
-    "symbol": "SW",
-    "momentum": 4.566474226580178,
-    "currentPrice": 48.709999084472656,
-    "name": "Smurfit Westrock"
+    "symbol": "EXC",
+    "momentum": 6.6965372485401256,
+    "currentPrice": 45.060001373291016,
+    "name": "Exelon"
   },
   {
     "symbol": "HON",
-    "momentum": 4.432005261669869,
-    "currentPrice": 221.72999572753906,
+    "momentum": 5.677655226871519,
+    "currentPrice": 218.32000732421875,
     "name": "Honeywell Technologies"
   },
   {
-    "symbol": "CARR",
-    "momentum": 2.6424790117183896,
-    "currentPrice": 61.20000076293945,
-    "name": "Carrier Global"
-  },
-  {
-    "symbol": "MMM",
-    "momentum": 2.258968962894875,
-    "currentPrice": 180.66000366210938,
-    "name": "3M"
+    "symbol": "HOOD",
+    "momentum": 5.333958613514406,
+    "currentPrice": 95.0999984741211,
+    "name": "Robinhood Markets"
   },
   {
     "symbol": "DG",
-    "momentum": 1.9863771143763358,
-    "currentPrice": 122.30999755859375,
+    "momentum": 4.969551213072862,
+    "currentPrice": 120.58000183105469,
     "name": "Dollar General"
   },
   {
+    "symbol": "MMM",
+    "momentum": 3.94258083763783,
+    "currentPrice": 178.08999633789062,
+    "name": "3M"
+  },
+  {
+    "symbol": "SW",
+    "momentum": 3.298007788893266,
+    "currentPrice": 48.189998626708984,
+    "name": "Smurfit Westrock"
+  },
+  {
     "symbol": "V",
-    "momentum": 1.8619950250798691,
-    "currentPrice": 365.5400085449219,
+    "momentum": 2.1585241857817463,
+    "currentPrice": 365.7300109863281,
     "name": "Visa Inc."
   },
   {
     "symbol": "AMCR",
-    "momentum": 0.8366543801231247,
-    "currentPrice": 47.45000076293945,
+    "momentum": 1.6901836583813477,
+    "currentPrice": 47.810001373291016,
     "name": "Amcor"
   },
   {
-    "symbol": "PFE",
-    "momentum": 0.49067995198473136,
-    "currentPrice": 28.239999771118164,
-    "name": "Pfizer"
-  },
-  {
     "symbol": "DECK",
-    "momentum": 0.20182515935938608,
-    "currentPrice": 91.56999969482422,
+    "momentum": 1.2417569892510731,
+    "currentPrice": 88.86000061035156,
     "name": "Deckers Brands"
   },
   {
-    "symbol": "CVNA",
-    "momentum": -0.8889243885342555,
-    "currentPrice": 70.44000244140625,
-    "name": "Carvana"
-  },
-  {
-    "symbol": "BA",
-    "momentum": -1.1124876168587101,
-    "currentPrice": 222.1999969482422,
-    "name": "Boeing"
-  },
-  {
-    "symbol": "EQT",
-    "momentum": -1.4754236516600057,
-    "currentPrice": 53.63999938964844,
-    "name": "EQT Corporation"
-  },
-  {
-    "symbol": "VZ",
-    "momentum": -1.5335007759392012,
-    "currentPrice": 49.36000061035156,
-    "name": "Verizon"
-  },
-  {
     "symbol": "TEL",
-    "momentum": -1.6099410430117331,
-    "currentPrice": 203.57000732421875,
+    "momentum": 0.35110430151075156,
+    "currentPrice": 200.5399932861328,
     "name": "TE Connectivity"
   },
   {
-    "symbol": "EXE",
-    "momentum": -3.7956294763441876,
-    "currentPrice": 96.02999877929688,
-    "name": "Expand Energy"
+    "symbol": "VZ",
+    "momentum": -0.07289883036066594,
+    "currentPrice": 49.189998626708984,
+    "name": "Verizon"
   },
   {
-    "symbol": "KHC",
-    "momentum": -3.954239223452769,
-    "currentPrice": 25.68000030517578,
-    "name": "Kraft Heinz"
+    "symbol": "BA",
+    "momentum": -0.9712233223575107,
+    "currentPrice": 215.10000610351562,
+    "name": "Boeing"
   },
   {
-    "symbol": "HPQ",
-    "momentum": -4.162757430981994,
-    "currentPrice": 29.940000534057617,
-    "name": "HP Inc."
-  },
-  {
-    "symbol": "MDLZ",
-    "momentum": -4.503412584133628,
-    "currentPrice": 64.16000366210938,
-    "name": "Mondelez International"
-  },
-  {
-    "symbol": "FAST",
-    "momentum": -4.600465173766705,
-    "currentPrice": 51.439998626708984,
-    "name": "Fastenal"
-  },
-  {
-    "symbol": "PEP",
-    "momentum": -4.917253488516982,
-    "currentPrice": 142.5800018310547,
-    "name": "PepsiCo"
-  },
-  {
-    "symbol": "PG",
-    "momentum": -5.9317362250394385,
-    "currentPrice": 144.3800048828125,
-    "name": "Procter & Gamble"
+    "symbol": "PFE",
+    "momentum": -1.2416783326357805,
+    "currentPrice": 27.790000915527344,
+    "name": "Pfizer"
   },
   {
     "symbol": "DHR",
-    "momentum": -6.610302591826421,
-    "currentPrice": 211.5,
+    "momentum": -1.6584256381300164,
+    "currentPrice": 215.91000366210938,
     "name": "Danaher Corporation"
   },
   {
+    "symbol": "CVNA",
+    "momentum": -2.9256511519300687,
+    "currentPrice": 71.5199966430664,
+    "name": "Carvana"
+  },
+  {
+    "symbol": "MDLZ",
+    "momentum": -3.2831204407027963,
+    "currentPrice": 64.13999938964844,
+    "name": "Mondelez International"
+  },
+  {
+    "symbol": "KHC",
+    "momentum": -3.573989625839704,
+    "currentPrice": 25.56999969482422,
+    "name": "Kraft Heinz"
+  },
+  {
+    "symbol": "PEP",
+    "momentum": -4.13531588965719,
+    "currentPrice": 142.0800018310547,
+    "name": "PepsiCo"
+  },
+  {
+    "symbol": "FAST",
+    "momentum": -4.154771008093265,
+    "currentPrice": 50.65999984741211,
+    "name": "Fastenal"
+  },
+  {
+    "symbol": "HPQ",
+    "momentum": -4.203407885142962,
+    "currentPrice": 29.469999313354492,
+    "name": "HP Inc."
+  },
+  {
+    "symbol": "COF",
+    "momentum": -4.487958418413942,
+    "currentPrice": 212.47999572753906,
+    "name": "Capital One"
+  },
+  {
+    "symbol": "COST",
+    "momentum": -5.109629074369994,
+    "currentPrice": 933.510009765625,
+    "name": "Costco"
+  },
+  {
+    "symbol": "EQT",
+    "momentum": -5.3385141585948,
+    "currentPrice": 53.88999938964844,
+    "name": "EQT Corporation"
+  },
+  {
+    "symbol": "PG",
+    "momentum": -5.347199764402351,
+    "currentPrice": 142.97000122070312,
+    "name": "Procter & Gamble"
+  },
+  {
+    "symbol": "MDT",
+    "momentum": -6.620319633005374,
+    "currentPrice": 92.30000305175781,
+    "name": "Medtronic"
+  },
+  {
+    "symbol": "DXCM",
+    "momentum": -7.020594727465866,
+    "currentPrice": 90.22000122070312,
+    "name": "Dexcom"
+  },
+  {
+    "symbol": "EXE",
+    "momentum": -7.088705880814447,
+    "currentPrice": 96.06999969482422,
+    "name": "Expand Energy"
+  },
+  {
     "symbol": "KVUE",
-    "momentum": -7.557175154077875,
-    "currentPrice": 19.1299991607666,
+    "momentum": -7.269775703636016,
+    "currentPrice": 18.93000030517578,
     "name": "Kenvue"
   },
   {
     "symbol": "CCL",
-    "momentum": -7.696757580418022,
-    "currentPrice": 26.690000534057617,
+    "momentum": -7.348426552614061,
+    "currentPrice": 25.3700008392334,
     "name": "Carnival Corporation"
   },
   {
-    "symbol": "COST",
-    "momentum": -7.815536458629427,
-    "currentPrice": 956.989990234375,
-    "name": "Costco"
-  },
-  {
-    "symbol": "RDDT",
-    "momentum": -8.270365875541607,
-    "currentPrice": 151.7100067138672,
-    "name": "Reddit"
-  },
-  {
     "symbol": "NOC",
-    "momentum": -8.769954874896372,
-    "currentPrice": 582.8400268554688,
+    "momentum": -8.22482737330372,
+    "currentPrice": 563.8599853515625,
     "name": "Northrop Grumman"
   },
   {
-    "symbol": "KDP",
-    "momentum": -9.003570768877617,
-    "currentPrice": 31.059999465942383,
-    "name": "Keurig Dr Pepper"
-  },
-  {
-    "symbol": "MDT",
-    "momentum": -9.164838563567287,
-    "currentPrice": 94.12999725341797,
-    "name": "Medtronic"
-  },
-  {
     "symbol": "CME",
-    "momentum": -9.312893258391293,
-    "currentPrice": 266.94000244140625,
+    "momentum": -8.672023424379423,
+    "currentPrice": 270.8699951171875,
     "name": "CME Group"
   },
   {
-    "symbol": "COF",
-    "momentum": -9.530290873768834,
-    "currentPrice": 220.72999572753906,
-    "name": "Capital One"
+    "symbol": "META",
+    "momentum": -9.159323716757468,
+    "currentPrice": 545.8300170898438,
+    "name": "Meta Platforms"
+  },
+  {
+    "symbol": "KDP",
+    "momentum": -9.789407592282256,
+    "currentPrice": 31.65999984741211,
+    "name": "Keurig Dr Pepper"
+  },
+  {
+    "symbol": "RCL",
+    "momentum": -9.852787707333322,
+    "currentPrice": 287.6199951171875,
+    "name": "Royal Caribbean Group"
   },
   {
     "symbol": "MCD",
-    "momentum": -9.544308195503586,
-    "currentPrice": 267.45001220703125,
+    "momentum": -10.202795081263734,
+    "currentPrice": 269.1300048828125,
     "name": "McDonald's"
   },
   {
-    "symbol": "DXCM",
-    "momentum": -10.591406538280093,
-    "currentPrice": 89.87999725341797,
-    "name": "Dexcom"
-  },
-  {
     "symbol": "MA",
-    "momentum": -11.172910942338564,
-    "currentPrice": 573.719970703125,
+    "momentum": -10.457090599481758,
+    "currentPrice": 573.8499755859375,
     "name": "Mastercard"
   },
   {
+    "symbol": "RDDT",
+    "momentum": -10.66087272320228,
+    "currentPrice": 150.30999755859375,
+    "name": "Reddit"
+  },
+  {
     "symbol": "LVS",
-    "momentum": -12.057065492129505,
-    "currentPrice": 46.58000183105469,
+    "momentum": -11.420973430824462,
+    "currentPrice": 45.970001220703125,
     "name": "Las Vegas Sands"
   },
   {
     "symbol": "GEHC",
-    "momentum": -12.296561107801542,
-    "currentPrice": 74.62000274658203,
+    "momentum": -11.433310789968006,
+    "currentPrice": 74.05999755859375,
     "name": "GE HealthCare"
   },
   {
-    "symbol": "KMB",
-    "momentum": -12.641701383488105,
-    "currentPrice": 109.87999725341797,
-    "name": "Kimberly-Clark"
-  },
-  {
-    "symbol": "RCL",
-    "momentum": -13.176467880979075,
-    "currentPrice": 300.55999755859375,
-    "name": "Royal Caribbean Group"
-  },
-  {
-    "symbol": "MRSH",
-    "momentum": -13.973128362446216,
-    "currentPrice": 189.1999969482422,
-    "name": "Marsh McLennan"
-  },
-  {
     "symbol": "HD",
-    "momentum": -14.086477270981511,
-    "currentPrice": 344.29998779296875,
+    "momentum": -12.56324480137737,
+    "currentPrice": 334.489990234375,
     "name": "Home Depot (The)"
   },
   {
+    "symbol": "KMB",
+    "momentum": -13.279492521073985,
+    "currentPrice": 108.69000244140625,
+    "name": "Kimberly-Clark"
+  },
+  {
     "symbol": "ISRG",
-    "momentum": -14.34072695670423,
-    "currentPrice": 397.7200012207031,
+    "momentum": -13.42896174508483,
+    "currentPrice": 374.4800109863281,
     "name": "Intuitive Surgical"
   },
   {
-    "symbol": "META",
-    "momentum": -15.269122631990195,
-    "currentPrice": 546.030029296875,
-    "name": "Meta Platforms"
-  },
-  {
-    "symbol": "LOW",
-    "momentum": -15.983275416288725,
-    "currentPrice": 220.0,
-    "name": "Lowe's"
+    "symbol": "MRSH",
+    "momentum": -13.956402657792397,
+    "currentPrice": 190.2100067138672,
+    "name": "Marsh McLennan"
   },
   {
     "symbol": "KR",
-    "momentum": -16.119715979071984,
-    "currentPrice": 56.27000045776367,
+    "momentum": -14.870196353987778,
+    "currentPrice": 56.31999969482422,
     "name": "Kroger"
   },
   {
     "symbol": "VICI",
-    "momentum": -16.261123754437936,
-    "currentPrice": 26.3700008392334,
+    "momentum": -15.977270716382913,
+    "currentPrice": 26.56999969482422,
     "name": "Vici Properties"
   },
   {
-    "symbol": "DIS",
-    "momentum": -16.64169813688962,
-    "currentPrice": 106.93000030517578,
-    "name": "Walt Disney Company (The)"
+    "symbol": "LOW",
+    "momentum": -16.037136838648003,
+    "currentPrice": 217.33999633789062,
+    "name": "Lowe's"
   },
   {
     "symbol": "NCLH",
-    "momentum": -17.14884732566134,
-    "currentPrice": 17.34000015258789,
+    "momentum": -16.053081772344882,
+    "currentPrice": 16.75,
     "name": "Norwegian Cruise Line Holdings"
   },
   {
-    "symbol": "PLTR",
-    "momentum": -17.287354765929035,
-    "currentPrice": 175.19000244140625,
-    "name": "Palantir Technologies"
-  },
-  {
     "symbol": "VST",
-    "momentum": -17.677319086533785,
-    "currentPrice": 142.6999969482422,
+    "momentum": -16.074560199633748,
+    "currentPrice": 138.94000244140625,
     "name": "Vistra Corp."
   },
   {
-    "symbol": "AMT",
-    "momentum": -18.178790891178178,
-    "currentPrice": 174.49000549316406,
-    "name": "American Tower"
+    "symbol": "DIS",
+    "momentum": -16.526462980865453,
+    "currentPrice": 107.31999969482422,
+    "name": "Walt Disney Company (The)"
   },
   {
     "symbol": "ORLY",
-    "momentum": -18.288458310640777,
-    "currentPrice": 91.19999694824219,
+    "momentum": -17.254787135300006,
+    "currentPrice": 89.08000183105469,
     "name": "O'Reilly Automotive"
   },
   {
     "symbol": "CMG",
-    "momentum": -19.665663526161985,
-    "currentPrice": 34.65999984741211,
+    "momentum": -17.851316417271164,
+    "currentPrice": 35.290000915527344,
     "name": "Chipotle Mexican Grill"
   },
   {
+    "symbol": "AMT",
+    "momentum": -18.288315273818593,
+    "currentPrice": 175.72000122070312,
+    "name": "American Tower"
+  },
+  {
+    "symbol": "PLTR",
+    "momentum": -18.81802608434326,
+    "currentPrice": 173.9600067138672,
+    "name": "Palantir Technologies"
+  },
+  {
     "symbol": "CEG",
-    "momentum": -19.876939644374236,
-    "currentPrice": 274.1700134277344,
+    "momentum": -19.23804516755015,
+    "currentPrice": 272.9200134277344,
     "name": "Constellation Energy"
   },
   {
-    "symbol": "UBER",
-    "momentum": -20.676415436593366,
-    "currentPrice": 78.04000091552734,
-    "name": "Uber"
-  },
-  {
     "symbol": "PAYX",
-    "momentum": -20.703060162256566,
-    "currentPrice": 122.5,
+    "momentum": -20.672674297884527,
+    "currentPrice": 122.91000366210938,
     "name": "Paychex"
   },
   {
+    "symbol": "UBER",
+    "momentum": -20.89568262756241,
+    "currentPrice": 78.55000305175781,
+    "name": "Uber"
+  },
+  {
     "symbol": "CMCSA",
-    "momentum": -21.53377785107427,
-    "currentPrice": 26.59000015258789,
+    "momentum": -21.525242075330755,
+    "currentPrice": 26.420000076293945,
     "name": "Comcast"
   },
   {
-    "symbol": "BKNG",
-    "momentum": -22.087438590392917,
-    "currentPrice": 213.0,
-    "name": "Booking Holdings"
-  },
-  {
     "symbol": "DASH",
-    "momentum": -22.340250834408288,
-    "currentPrice": 220.22000122070312,
+    "momentum": -21.547429704888863,
+    "currentPrice": 222.36000061035156,
     "name": "DoorDash"
   },
   {
     "symbol": "ROL",
-    "momentum": -22.344535909664526,
-    "currentPrice": 36.2599983215332,
+    "momentum": -22.068755215059806,
+    "currentPrice": 36.380001068115234,
     "name": "Rollins"
   },
   {
-    "symbol": "MSFT",
-    "momentum": -23.390399228910596,
-    "currentPrice": 484.30999755859375,
-    "name": "Microsoft"
-  },
-  {
     "symbol": "BX",
-    "momentum": -23.498790173723794,
-    "currentPrice": 145.08999633789062,
+    "momentum": -22.424264414868905,
+    "currentPrice": 141.35000610351562,
     "name": "Blackstone Inc."
   },
   {
+    "symbol": "BKNG",
+    "momentum": -22.51253736487043,
+    "currentPrice": 209.8699951171875,
+    "name": "Booking Holdings"
+  },
+  {
     "symbol": "GIS",
-    "momentum": -24.591928716733204,
-    "currentPrice": 39.9900016784668,
+    "momentum": -22.75939671204665,
+    "currentPrice": 39.61000061035156,
     "name": "General Mills"
   },
   {
+    "symbol": "MSFT",
+    "momentum": -23.143947324213748,
+    "currentPrice": 481.1499938964844,
+    "name": "Microsoft"
+  },
+  {
     "symbol": "T",
-    "momentum": -25.747834257148057,
-    "currentPrice": 25.1200008392334,
+    "momentum": -24.842443762625106,
+    "currentPrice": 25.149999618530273,
     "name": "AT&T"
   },
   {
     "symbol": "SNPS",
-    "momentum": -26.243908719276053,
-    "currentPrice": 401.239990234375,
+    "momentum": -25.522842548434422,
+    "currentPrice": 397.9200134277344,
     "name": "Synopsys"
   },
   {
-    "symbol": "ABT",
-    "momentum": -27.591397091508075,
-    "currentPrice": 114.43000030517578,
-    "name": "Abbott Laboratories"
-  },
-  {
     "symbol": "TMUS",
-    "momentum": -28.61289011582042,
-    "currentPrice": 182.36000061035156,
+    "momentum": -25.958600028893418,
+    "currentPrice": 181.22000122070312,
     "name": "T-Mobile US"
   },
   {
-    "symbol": "PSKY",
-    "momentum": -32.156033133594555,
-    "currentPrice": 10.600000381469727,
-    "name": "Paramount Skydance Corporation"
+    "symbol": "ABT",
+    "momentum": -27.71172860816454,
+    "currentPrice": 114.13999938964844,
+    "name": "Abbott Laboratories"
   },
   {
     "symbol": "PYPL",
-    "momentum": -32.85474407876778,
-    "currentPrice": 61.25,
+    "momentum": -30.8347195808015,
+    "currentPrice": 62.29999923706055,
     "name": "PayPal"
   },
   {
+    "symbol": "MOS",
+    "momentum": -31.72711684389366,
+    "currentPrice": 23.350000381469727,
+    "name": "Mosaic Company (The)"
+  },
+  {
+    "symbol": "VEEV",
+    "momentum": -32.79722340633818,
+    "currentPrice": 250.52999877929688,
+    "name": "Veeva Systems"
+  },
+  {
     "symbol": "CRM",
-    "momentum": -33.50562994324602,
-    "currentPrice": 206.08999633789062,
+    "momentum": -33.00154198597327,
+    "currentPrice": 205.42999267578125,
     "name": "Salesforce"
   },
   {
     "symbol": "SMCI",
-    "momentum": -33.72447930860247,
-    "currentPrice": 36.58000183105469,
+    "momentum": -33.08910766471021,
+    "currentPrice": 36.5,
     "name": "Supermicro"
   },
   {
-    "symbol": "VEEV",
-    "momentum": -33.747621488751136,
-    "currentPrice": 251.0,
-    "name": "Veeva Systems"
-  },
-  {
-    "symbol": "MOS",
-    "momentum": -33.814629815872365,
-    "currentPrice": 22.229999542236328,
-    "name": "Mosaic Company (The)"
-  },
-  {
     "symbol": "LEN",
-    "momentum": -34.36281738551284,
-    "currentPrice": 87.30000305175781,
+    "momentum": -33.43129103351049,
+    "currentPrice": 85.41999816894531,
     "name": "Lennar"
   },
   {
     "symbol": "ADBE",
-    "momentum": -37.00308448334429,
-    "currentPrice": 272.4700012207031,
+    "momentum": -36.72297087847764,
+    "currentPrice": 272.2200012207031,
     "name": "Adobe Inc."
   },
   {
-    "symbol": "NFLX",
-    "momentum": -37.826437781900616,
-    "currentPrice": 80.22000122070312,
-    "name": "Netflix"
-  },
-  {
-    "symbol": "ORCL",
-    "momentum": -38.161285091413795,
-    "currentPrice": 143.80999755859375,
-    "name": "Oracle Corporation"
-  },
-  {
     "symbol": "NOW",
-    "momentum": -38.87110672710764,
-    "currentPrice": 127.19999694824219,
+    "momentum": -38.58968903802918,
+    "currentPrice": 129.75,
     "name": "ServiceNow"
   },
   {
     "symbol": "WDAY",
-    "momentum": -39.188538838007254,
-    "currentPrice": 198.4199981689453,
+    "momentum": -38.94454880469132,
+    "currentPrice": 197.32000732421875,
     "name": "Workday"
   },
   {
-    "symbol": "CPRT",
-    "momentum": -40.49569510497669,
-    "currentPrice": 33.849998474121094,
-    "name": "Copart"
+    "symbol": "ORCL",
+    "momentum": -38.993409925857364,
+    "currentPrice": 142.07000732421875,
+    "name": "Oracle Corporation"
+  },
+  {
+    "symbol": "NFLX",
+    "momentum": -39.17311130727343,
+    "currentPrice": 80.13999938964844,
+    "name": "Netflix"
   },
   {
     "symbol": "LULU",
-    "momentum": -41.19220421577586,
-    "currentPrice": 119.44999694824219,
+    "momentum": -39.82238038966043,
+    "currentPrice": 115.69000244140625,
     "name": "Lululemon Athletica"
   },
   {
     "symbol": "NKE",
-    "momentum": -42.36306440359074,
-    "currentPrice": 41.04999923706055,
+    "momentum": -40.15811167782628,
+    "currentPrice": 40.209999084472656,
     "name": "Nike"
   },
   {
+    "symbol": "PSKY",
+    "momentum": -40.32495024408039,
+    "currentPrice": 10.289999961853027,
+    "name": "Paramount Skydance Corporation"
+  },
+  {
+    "symbol": "CPRT",
+    "momentum": -42.28187860398082,
+    "currentPrice": 34.33000183105469,
+    "name": "Copart"
+  },
+  {
     "symbol": "ACN",
-    "momentum": -44.35383964866379,
-    "currentPrice": 183.1699981689453,
+    "momentum": -45.660612226966656,
+    "currentPrice": 181.35000610351562,
     "name": "Accenture"
   },
   {
     "symbol": "COIN",
-    "momentum": -47.948357430712605,
-    "currentPrice": 160.1999969482422,
+    "momentum": -47.02610631048597,
+    "currentPrice": 172.35000610351562,
     "name": "Coinbase"
   },
   {
     "symbol": "TSCO",
-    "momentum": -50.52097942971459,
-    "currentPrice": 35.439998626708984,
+    "momentum": -49.59293037525214,
+    "currentPrice": 35.04999923706055,
     "name": "Tractor Supply"
   },
   {
     "symbol": "ZTS",
-    "momentum": -51.51028310789307,
-    "currentPrice": 76.68000030517578,
+    "momentum": -51.16493931671818,
+    "currentPrice": 75.0199966430664,
     "name": "Zoetis"
   },
   {
     "symbol": "BSX",
-    "momentum": -57.576614442425445,
-    "currentPrice": 52.0099983215332,
+    "momentum": -57.44700993503666,
+    "currentPrice": 49.369998931884766,
     "name": "Boston Scientific"
   },
   {
     "symbol": "INTU",
-    "momentum": -60.45895968596399,
-    "currentPrice": 362.4700012207031,
+    "momentum": -60.15121231147222,
+    "currentPrice": 361.8699951171875,
     "name": "Intuit"
   },
   {
     "symbol": "TTD",
-    "momentum": -62.402435829136415,
-    "currentPrice": 13.539999961853027,
+    "momentum": -62.657741928213525,
+    "currentPrice": 13.319999694824219,
     "name": "Trade Desk (The)"
   },
   {
     "symbol": "FISV",
-    "momentum": -63.09659970832122,
-    "currentPrice": 52.08000183105469,
+    "momentum": -63.96428516932896,
+    "currentPrice": 51.380001068115234,
     "name": "Fiserv"
   }
 ]
